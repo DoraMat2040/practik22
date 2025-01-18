@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+.block-1 {
+    width: 357px;
+    height: 264px;
+    background-image: url(../img/Rectangle\ 12.png);
+    position: relative;
+
+}
+
+.block-2 {
+    background-color: rgb(38, 38, 230);
+    position: absolute;
+    margin-left: 13px;
+    margin-top: 13px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+
+}
+
+
+.text {
+    font-size: 14px;
+
+}
+
+p {
+    margin: 0;
+}
+
+.block-10 {
+
+    background-color: aqua;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    padding: 20px 12px;
+
+
+
+}
+
+.text-2 {
+    font-size: 20px;
+    color: white;
+}
